@@ -1,0 +1,11 @@
+C:\Users\ddely\source\repos\ReceiptGenerator\ReceiptGenerator\bin\Debug\netcoreapp3.1\ReceiptGenerator.exe
+C:\Users\ddely\source\repos\ReceiptGenerator\ReceiptGenerator\bin\Debug\netcoreapp3.1\ReceiptGenerator.deps.json
+C:\Users\ddely\source\repos\ReceiptGenerator\ReceiptGenerator\bin\Debug\netcoreapp3.1\ReceiptGenerator.runtimeconfig.json
+C:\Users\ddely\source\repos\ReceiptGenerator\ReceiptGenerator\bin\Debug\netcoreapp3.1\ReceiptGenerator.runtimeconfig.dev.json
+C:\Users\ddely\source\repos\ReceiptGenerator\ReceiptGenerator\bin\Debug\netcoreapp3.1\ReceiptGenerator.dll
+C:\Users\ddely\source\repos\ReceiptGenerator\ReceiptGenerator\bin\Debug\netcoreapp3.1\ReceiptGenerator.pdb
+C:\Users\ddely\source\repos\ReceiptGenerator\ReceiptGenerator\obj\Debug\netcoreapp3.1\ReceiptGenerator.AssemblyInfoInputs.cache
+C:\Users\ddely\source\repos\ReceiptGenerator\ReceiptGenerator\obj\Debug\netcoreapp3.1\ReceiptGenerator.AssemblyInfo.cs
+C:\Users\ddely\source\repos\ReceiptGenerator\ReceiptGenerator\obj\Debug\netcoreapp3.1\ReceiptGenerator.dll
+C:\Users\ddely\source\repos\ReceiptGenerator\ReceiptGenerator\obj\Debug\netcoreapp3.1\ReceiptGenerator.pdb
+C:\Users\ddely\source\repos\ReceiptGenerator\ReceiptGenerator\obj\Debug\netcoreapp3.1\ReceiptGenerator.csprojAssemblyReference.cache
